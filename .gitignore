@@ -1,0 +1,15 @@
+.env
+
+# Build binary
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Folder IDE (VS Code / JetBrains)
+.vscode/
+.idea/
+
+# Testing output
+*.test
